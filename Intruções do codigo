@@ -1,6 +1,6 @@
-O codigo consiste na filtragem de dados utilizando a biblioteca "Pandas"
+O codigo consiste na filtragem de dados de uma planilha, utilizando a biblioteca "Pandas"
   1 utilizo o pandas para ler a planilha
-  2 Crio uma variavel, utilizara o "lock" para pegar uma coluna e depois utilizo o "isin" para esta fazendo a filtragem
+  2 Crio uma variavel, que utilizará o "lock" para pegar uma coluna e depois utilizo o "isin" para esta fazendo a filtragem
   3 Dentro do ising, eu seleciono as linhas que eu quero da coluna 
   4 Crio outra variavel, que irá receber a variavel dados, onde eu posso escolher quais colunas estarão fazendo parte da
   nova planilha 
