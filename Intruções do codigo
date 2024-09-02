@@ -1,4 +1,4 @@
-O codigo consiste na filtragem de dados de uma planilha, utilizando a biblioteca "Pandas"
+ O codigo consiste na filtragem de dados de     uma planilha, utilizando a biblioteca "Pandas"
 
   1. Utilizo o pandas para ler a planilha.
 
